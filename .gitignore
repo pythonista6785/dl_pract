@@ -1,0 +1,6 @@
+.vscode
+dlvenv
+*.zip
+get-pip.py
+Data
+characterRecognition.py
